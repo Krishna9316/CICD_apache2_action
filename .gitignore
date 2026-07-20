@@ -1,0 +1,18 @@
+# OS files
+Thumbs.db
+db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvsca
+*.njsproj
+*.sln
+*.swp
+
+# Local log files
+*.log
